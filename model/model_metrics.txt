@@ -1,6 +1,6 @@
 CREDIT CARD CHURN PREDICTION - MODEL EVALUATION METRICS
 =================================================================
-Generated on: 2025-08-07 13:31:02
+Generated on: 2025-08-07 14:19:48
 
 MODEL PERFORMANCE COMPARISON:
 -----------------------------------
@@ -32,4 +32,4 @@ Highest risk activity level: Low (61.8%)
 
 Model file saved to: model/trained_model.pkl
 Metrics file: model/model_metrics.txt
-Analysis completed at: 2025-08-07 13:31:02
+Analysis completed at: 2025-08-07 14:19:48

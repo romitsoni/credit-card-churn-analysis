@@ -8,7 +8,6 @@ env/
 venv/
 
 # Ignore model binaries (but keep text files like metrics.txt)
-*.pkl
 *.joblib
 
 # OS-specific junk files
