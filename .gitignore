@@ -1,0 +1,25 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore model binaries (but keep text files like metrics.txt)
+*.pkl
+*.joblib
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE/project settings
+.idea/
+*.iml
+
+
