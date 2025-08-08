@@ -85,8 +85,9 @@ This repository includes:
 ---
 
 ## 🚀 Tech Stack
-- **Language:** Python 3.x  
+- **Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Environment:** Jupyter Notebook / Google Colab  
+  
+
 
 
